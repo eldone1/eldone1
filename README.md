@@ -68,7 +68,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/eldone1/e-commerce-app">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=eldone1&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=eldone1&repo=e-commerce-app&theme=nightowl&show_owner=true" alt="E-commerce Project" />
         </a>
       </p>
     </td>
