@@ -49,7 +49,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/eldone1">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=eldone1&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
@@ -57,7 +57,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/eldone1">
           <img align="center" src="https://streak-stats.demolab.com?user=eldone1&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
@@ -67,7 +67,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
+        <a href="https://github.com/eldone1/e-commerce-app">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=eldone1&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
@@ -75,7 +75,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/eldone1">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=eldone1&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
