@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3><em>Backend Developer apasionado por crear soluciones sólidas, seguras y eficientes</em></h3>
+  <h3><em>Backend Developer, implementando soluciones sólidas, seguras y eficientes</em></h3>
 </div>
 
 ---
@@ -35,7 +35,7 @@
 <ul>
   <li>🎓 Actualmente estudiando la carrera de Desarrollo de Software.</li>
   <li>💻 Me especializo en el desarrollo backend con Java y el ecosistema Spring.</li>
-  <li>🔐 Apasionado por construir APIs seguras y escalables usando Spring Security y Microservicios.</li>
+  <li>🔐 Construir APIs seguras y escalables usando Spring Security y Microservicios.</li>
   <li>🌱 Siempre aprendiendo nuevas tecnologías.</li>
   <li>🎯 Mi objetivo es seguir creciendo como desarrollador backend profesional.</li>
 </ul>
