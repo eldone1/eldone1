@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3><em>Backend Developer, implementando soluciones sólidas, seguras y eficientes</em></h3>
+  <h3><em>Backend Developer</em></h3>
 </div>
 
 ---
